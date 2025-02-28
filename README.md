@@ -1,6 +1,6 @@
-# 📦 Releases de KDS – Negosy SAC  
+# 📦 Releases de MESERO – Negosy SAC  
 
-Bienvenido al repositorio de releases de **KDS** (Kitchen Display System) de **Negosy SAC**.  
+Bienvenido al repositorio de releases de **MESERO** (Kitchen Display System) de **Negosy SAC**.  
 Aquí encontrarás las versiones más recientes del software, optimizado para ofrecer un desempeño eficiente en entornos de cocina profesional.  
 
 ## 🖥️ Plataformas Soportadas  
