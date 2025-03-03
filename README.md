@@ -19,4 +19,4 @@ Cada release incluirá un archivo con las **notas de versión** detalladas, dond
 2. **Reinicia el software** para aplicar los cambios.  
 
 ## ⚠️ Soporte y Reporte de Errores  
-Si encuentras algún problema o tienes sugerencias, por favor repórtalo a nuestro equipo de soporte a través de [correo o sistema de tickets].  
+Si encuentras algún problema o tienes sugerencias, por favor repórtalo a nuestro equipo de soporte a través de hola@negosy.com.  
