@@ -5,7 +5,7 @@ Aquí encontrarás las versiones más recientes del software, optimizado para of
 
 ## 🖥️ Plataformas Soportadas  
 - **Windows** 🪟 (x64)  
-- **macOS** 🍏 (Apple Silicon & Intel) -> **Actualización Manual desde el repocitorio**
+[//]: # (- **macOS** 🍏 (Apple Silicon & Intel) -> **Actualización Manual desde el repocitorio**)
 
 ## 🚀 Acerca de las Actualizaciones  
 Cada versión publicada en este repositorio contiene mejoras, optimizaciones y correcciones de errores para garantizar un flujo de trabajo más ágil en la cocina.  
